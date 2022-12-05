@@ -1,0 +1,24 @@
+:root {
+    --color-text-primery: #2E2F42;
+    --color-text-minor: #434455;
+    --color-logo-web: #4D5AE5;
+    --color-logo-studio-header: #2E2F42;
+    --color-logo-studio-footer: #F4F4FD;
+    --color-contact-link-header: #434455;
+    --color-text-title: #FFFFFF;
+    --color-text-button-index: #FFFFFF;
+    --color-text-button-hover: #FFFFFF;
+    --color-text-button-portfolio: #4D5AE5;
+    --color-text-footer-content: #E7E9FC;
+    --backround-color-primery: #FFFFFF;
+    --backround-color-title: #2E2F42;
+    --backround-color-button-index: #4D5AE5;
+    --backround-color-button-index-hover: #4D5AE5;
+    --backround-color-button-index-focus-activ: #404BBF;
+    --backround-color-our-team: #F4F4FD;
+    --backround-color-footer: #2E2F42;
+    --backround-color-button-portfolio: #E7E9FC;
+    --backround-color-button-portfolio-hover-focus-active: #4D5AE5;
+    
+
+}
